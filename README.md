@@ -23,4 +23,4 @@ const sobreMi = {
 </br></br>
 
 [![Jeremias's github stats](https://github-readme-stats.vercel.app/api?username=jeremiaskoch&hide=stars,issues&show_icons=true&theme=dark)](https://github.com/jeremiaskoch/github-readmestats) 
-[! [Estadísticas de Jeremias de willianrod] (https://github-readme-stats.vercel.app/api/wakatime?username=jeremiaskoch)] (https://github.com/JeremiasKoch/githubreadmestats)
+[! [Estadísticas de Jeremias] (https://github-readme-stats.vercel.app/api/wakatime?username=jeremiaskoch)] (https://github.com/JeremiasKoch/githubreadmestats)
