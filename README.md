@@ -40,10 +40,10 @@ ____________________
 🚀 Tecnologias: 
 React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
 
-<img align="left"  width= "350px" src='' />
-<img align="center" width= "350px" src='' />
-<img align="left" width= "350px" src='' />
-<img align="center"width= "350px" src='' />
+<img align="left"  width= "350px" src='001.png' />
+<img align="center" width= "350px" src='002.png' />
+<img align="left" width= "350px" src='003.png' />
+<img align="center"width= "350px" src='004.png' />
 
 ____________
 
@@ -56,10 +56,9 @@ React - Redux - Material UI - NodeJS- Express - PostgreSQL - Passport
 
 🎨 Mock-up: Adobe XD
 
-<img align="left" width= "350px" src='' />
-<img align="center" width= "350px" src='' />
-<img align="left" width= "350px" src='' />
-<img align="center" width= "350px" src='' />
-<img width= "400px" src='' /> -->
+<img align="left" width= "350px" src='login.png' />
+<img align="center" width= "350px" src='editarperfil.png' />
+<img align="left" width= "350px" src='herramientas.png' />
+<img align="center" width= "350px" src='seleccionar.png' />
 
 
