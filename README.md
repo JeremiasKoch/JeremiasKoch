@@ -3,9 +3,9 @@
 
 
 ```javascript
-const aboutMe = {
-   code: [Javascript, HTML, CSS],
-   technologies: {
+const sobreMi = {
+   coidgo: [Javascript, HTML, CSS],
+   tecnologias: {
       frontEnd: {
          js: ["React", "Redux", "react-data-table-component", "Formik"],
          css: ["Bootstrap", "Material UI", "TailWind"]
@@ -15,8 +15,8 @@ const aboutMe = {
       },
       databases: ["PostgreSQL"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   ocupacionesActuales: ["Acabo de terminar Soy Henry, un Bootcamp online de 4 meses de duración, con mas de 650 horas de código.😱", "Trabajando como Freelancer."],
+   desafioPersonal: "Explotar cada vez menos el codigo. 🤣",
 };
 ```
 </br></br>
