@@ -1,9 +1,7 @@
 <h4><em>Hola soy Jeremias. 😊</br></em></h4>
 <p>Acabo de terminar Soy Henry Full stack developer, con experiencia desarrollando en React,
-   creando dos proyectos con funcionalidad real,
-   un e-commerce y una app de gestion de alumnos.
+   creando dos proyectos con funcionalidad real, un e-commerce y una app de gestion de alumnos.
 </p>
-
 
 ```javascript
 const sobreMi = {
@@ -31,7 +29,7 @@ const sobreMi = {
 [![Jeremias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeremiaskoch)](https://github.com/jeremiaskoch/github-readme-stats)
 
 
-## Mira mi trabajo
+## Mira mi trabajo 
 ____________________
 ## E-Commerce
 
@@ -49,8 +47,8 @@ ____________
 
 ## HENRY APP 
 
-📌 Developed with the aim of improving administrative channels of Henry´s community
-Desarrollador con el objetico de mejorar los canales administrativos de la comunidad de Henry
+📌 Desarrollado con el objetivo de mejorar los canales administrativos de la comunidad de Henry
+
 🚀 Tecnologias: 
 React - Redux - Material UI - NodeJS- Express - PostgreSQL - Passport 
 
