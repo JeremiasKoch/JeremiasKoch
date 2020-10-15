@@ -18,7 +18,7 @@ const sobreMi = {
       },
       databases: ["PostgreSQL"],
    },
-   ocupacionesActuales: ["Trabajando como Freelancer.", "Aprendiendo Nextjs y atomic desing"],
+   ocupacionesActuales: ["Trabajando como Freelancer.", "Aprendiendo Nextjs y atomic design"],
    desafioPersonal: "Explotar cada vez menos el codigo. 🤣",
 };
 ```
