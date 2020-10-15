@@ -4,7 +4,7 @@
 
 ```javascript
 const sobreMi = {
-   coidgo: [Javascript, HTML, CSS],
+   codigo: [Javascript, HTML, CSS],
    tecnologias: {
       frontEnd: {
          js: ["React", "Redux", "react-data-table-component", "Formik"],
