@@ -17,6 +17,7 @@ const sobreMi = {
          js: ["Node", "Express"],
       },
       databases: ["PostgreSQL"],
+      extras: ["Adobe PhotoShop", "Adobe Illustrator", "Adobe Premiere"]
    },
    ocupacionesActuales: ["Trabajando como Freelancer.", "Aprendiendo Nextjs y atomic design"],
    desafioPersonal: "Explotar cada vez menos el codigo. 🤣",
@@ -28,3 +29,37 @@ const sobreMi = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiaskoch&layout=compact)](https://github.com/jeremiaskoch/github-readme-stats)
 [![Jeremias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeremiaskoch)](https://github.com/jeremiaskoch/github-readme-stats)
+
+
+## Mira mi trabajo
+____________________
+## E-Commerce
+
+📌 Ecommerce dessarrollado para vender insumos de Pc.
+
+🚀 Tecnologias: 
+React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
+
+<img align="left"  width= "350px" src='' />
+<img align="center" width= "350px" src='' />
+<img align="left" width= "350px" src='' />
+<img align="center"width= "350px" src='' />
+
+____________
+
+## HENRY APP 
+
+📌 Developed with the aim of improving administrative channels of Henry´s community
+Desarrollador con el objetico de mejorar los canales administrativos de la comunidad de Henry
+🚀 Tecnologias: 
+React - Redux - Material UI - NodeJS- Express - PostgreSQL - Passport 
+
+🎨 Mock-up: Adobe XD
+
+<img align="left" width= "350px" src='' />
+<img align="center" width= "350px" src='' />
+<img align="left" width= "350px" src='' />
+<img align="center" width= "350px" src='' />
+<img width= "400px" src='' /> -->
+
+
