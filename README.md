@@ -1,5 +1,7 @@
-<p><em>Hola soy Jeremias. 😊</br>
-</em></p>
+<p><em>Hola soy Jeremias. 😊</br></em></p>
+<p>Acabo de terminar Soy Henry Full stack developer, con experiencia desarrollando en React,
+   creando dos proyectos con funcionalidad real, un e-commerce y una app de gestion de alumnos.
+</p>
 
 
 ```javascript
@@ -15,8 +17,7 @@ const sobreMi = {
       },
       databases: ["PostgreSQL"],
    },
-   ocupacionesActuales: ["Acabo de terminar Soy Henry, un Bootcamp online de 4 meses de duración, con mas de 650 horas de código.😱",
-      "Trabajando como Freelancer."],
+   ocupacionesActuales: ["", "Trabajando como Freelancer."],
    desafioPersonal: "Explotar cada vez menos el codigo. 🤣",
 };
 ```
