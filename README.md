@@ -15,7 +15,8 @@ const sobreMi = {
       },
       databases: ["PostgreSQL"],
    },
-   ocupacionesActuales: ["Acabo de terminar Soy Henry, un Bootcamp online de 4 meses de duración, con mas de 650 horas de código.😱", "Trabajando como Freelancer."],
+   ocupacionesActuales: ["Acabo de terminar Soy Henry, un Bootcamp online de 4 meses de duración, con mas de 650 horas de código.😱",
+                           "Trabajando como Freelancer."],
    desafioPersonal: "Explotar cada vez menos el codigo. 🤣",
 };
 ```
