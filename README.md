@@ -22,4 +22,4 @@ const sobreMi = {
 ```
 </br></br>
 
-[![Jeremias's github stats](https://github-readme-stats.vercel.app/api?username=jeremiaskoch)](https://github.com/jeremiaskoch/github-readme-stats & hide = stars, issues)
+[![Jeremias's github stats](https://github-readme-stats.vercel.app/api?username=jeremiaskoch)](https://github.com/jeremiaskoch/github-readmestats&hide=stars,issues)
