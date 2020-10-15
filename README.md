@@ -59,6 +59,6 @@ React - Redux - Material UI - NodeJS- Express - PostgreSQL - Passport
 <img align="left" width= "350px" src='login.png' />
 <img align="center" width= "350px" src='editarperfil.png' />
 <img align="left" width= "350px" src='herramientas.png' />
-<img align="center" width= "350px" src='seleccionar.png' />
+<img align="center" width= "350px" src='alumnos.png' />
 
 
