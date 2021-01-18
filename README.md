@@ -17,7 +17,7 @@ const sobreMi = {
       databases: ["PostgreSQL"],
       extras: ["Adobe PhotoShop", "Adobe Illustrator", "Adobe Premiere"]
    },
-   ocupacionesActuales: ["Trabajando como Freelancer.", "Aprendiendo Nextjs y atomic design"],
+   ocupacionesActuales: ["Trabajando en Chiper."],
    desafioPersonal: "Explotar cada vez menos el codigo. 🤣",
 };
 ```
