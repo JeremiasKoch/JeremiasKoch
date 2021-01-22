@@ -1,6 +1,5 @@
 <h4><em>Hola soy Jeremias. 😊</br></em></h4>
-<p>Acabo de terminar Soy Henry Full stack developer, con experiencia desarrollando en React,
-   creando dos proyectos con funcionalidad real, un e-commerce y una app de gestion de alumnos.
+<p>Programador Front-End en Chiper.
 </p>
 
 ```javascript
