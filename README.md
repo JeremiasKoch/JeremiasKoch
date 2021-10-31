@@ -11,9 +11,8 @@ const sobreMi = {
          css: ["Bootstrap", "Material UI", "TailWind"]
       },
       backEnd:
-         js: ["Node", "Express"],
+         js: ["Node"],
       },
-      databases: ["PostgreSQL"],
       extras: ["Adobe PhotoShop", "Adobe Illustrator", "Adobe Premiere"]
    },
    ocupacionesActuales: ["Trabajando en Chiper."],
