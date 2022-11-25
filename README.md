@@ -7,8 +7,8 @@ const sobreMi = {
    codigo: [Javascript, HTML, CSS],
    tecnologias: {
       frontEnd: {
-         js: ["React", "Redux", "react-data-table-component", "Formik"],
-         css: ["Bootstrap", "Material UI", "TailWind"]
+         js: ["React", "react-data-table-component", "Formik"],
+         css: ["TailWind"]
       },
       backEnd:
          js: ["Node"],
